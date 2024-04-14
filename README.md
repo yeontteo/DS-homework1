@@ -1,1 +1,1 @@
-# homework1
+# homework1 - memory address & pointer
